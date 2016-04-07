@@ -1,0 +1,10 @@
+.service_list ul
+{
+	list-style: initial;
+	margin-left: 1em;
+}
+.service_list ol
+{
+	list-style: decimal;
+	margin-left: 1em;
+}
