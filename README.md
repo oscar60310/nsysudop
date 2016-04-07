@@ -5,9 +5,10 @@
 需要加入設定檔案<br>
 src\nsysudop\gb\ServerData.java<br>
 內容為<br>
-<code>
-package nsysudop.gb;
 
+```JAVA
+
+package nsysudop.gb;
 import java.util.Calendar;
 import java.util.Date;
 
@@ -46,4 +47,4 @@ public class ServerData
         
 }
 
-</code>
+```
